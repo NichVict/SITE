@@ -273,7 +273,7 @@ A Phoenix não substitui os gênios. Ela realiza o que eles nunca puderam fazer.
 </style>
 """, unsafe_allow_html=True)
 
-
+st.markdown("<div class='section-divider'></div>", unsafe_allow_html=True)
 # ------------------------------------------------------------
 # O QUE É A PHOENIX STRATEGY
 # ------------------------------------------------------------
