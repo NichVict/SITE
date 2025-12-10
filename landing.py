@@ -389,7 +389,7 @@ with d1:
             “Nunca tinha operado ações. Hoje só sigo os alertas e executo pelo celular.
             A sensação de ter alguém filtrando o mercado por mim é absurda.”
         </p>
-        <p class='testimonial-role'>— Investidor Iniciante</p>
+        <p class='testimonial-role'>— Leandro Martins, investidor iniciante</p>
     </div>
     """, unsafe_allow_html=True)
 
