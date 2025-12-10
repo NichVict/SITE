@@ -400,7 +400,7 @@ with d2:
             “Eu não tenho tempo para ficar em frente ao gráfico. Os sinais chegam objetivos,
             com entrada e stop definidos. Isso devolveu confiança e disciplina.”
         </p>
-        <p class='testimonial-role'>— Investidor Intermediário</p>
+        <p class='testimonial-role'>— Karina Rodrigues, investidora intermediária</p>
     </div>
     """, unsafe_allow_html=True)
 
@@ -411,7 +411,7 @@ with d3:
             “Como profissional, uso o scanner para validar rapidamente o que antes levava horas.
             A curadoria algorítmica economiza tempo e evita vieses.”
         </p>
-        <p class='testimonial-role'>— Trader Avançado</p>
+        <p class='testimonial-role'>— Vitor Medeiros, analista CNPI</p>
     </div>
     """, unsafe_allow_html=True)
 
