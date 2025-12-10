@@ -345,7 +345,7 @@ def render_roi_calculator():
     </html>
     """
 
-    components.html(calc_html, height=520, scrolling=False)
+    components.html(calc_html, height=800, scrolling=False)
 
     st.markdown(dedent("""
         <p style='color:#888; font-size:0.8rem; text-align:center; margin-top:0.6rem;'>
