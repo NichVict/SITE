@@ -274,7 +274,7 @@ def render_roi_calculator():
       const planos = {
         "equity":  { preco: 309,  pCons: 0.04,  pEst: 0.06  },  // Phoenix Equity
         "full":    { preco: 496,  pCons: 0.08,  pEst: 0.155 },  // Phoenix Full
-        "scanner": { preco: 746,  pCons: 0.00,  pEst: 0.00  }   // Scanner PRO (sem ROI de trade, foco em ferramenta)
+        "scanner": { preco: 746,  pCons: 0.10,  pEst: 0.25  }   // Scanner PRO (sem ROI de trade, foco em ferramenta)
       };
 
       function formatCurrency(v) {
