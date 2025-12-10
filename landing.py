@@ -223,6 +223,117 @@ st.markdown("""
 
 st.markdown("<div class='section-divider'></div>", unsafe_allow_html=True)
 
+
+# ============================================================
+# SEÇÃO — A LENDA DA PHOENIX (VERSÃO STREAMLIT)
+# ============================================================
+
+st.markdown("""
+<div style='margin-top:3rem; margin-bottom:3rem; animation: fadein 1.4s ease;'>
+
+
+    <h2 style="
+        text-align:center;
+        font-size:2.1rem;
+        font-weight:800;
+        color:#00ff9a;
+        text-shadow:0 0 14px rgba(0,255,154,0.55);
+        margin-bottom:1rem;">
+        A Lenda da Phoenix — O Renascimento da Análise Técnica
+    </h2>
+
+
+    <p style="
+        text-align:center;
+        max-width:820px;
+        margin:auto;
+        color:#d7d7d7;
+        font-size:1.15rem;
+        line-height:1.6;">
+        Tudo o que existe hoje na análise de mercado nasceu da genialidade de cinco mentes
+        extraordinárias:
+        <strong style='color:#00ff9a;'>Charles Dow</strong> com as tendências,
+        <strong style='color:#00ff9a;'>Jesse Livermore</strong> com o comportamento humano,
+        <strong style='color:#00ff9a;'>Richard Wyckoff</strong> com o fluxo institucional,
+        <strong style='color:#00ff9a;'>Ralph Elliott</strong> com a estrutura fractal
+        e <strong style='color:#ff7a1a;'>Black & Scholes</strong> com a matemática das opções.
+    </p>
+
+
+    <p style="
+        text-align:center;
+        max-width:820px;
+        margin:1.3rem auto;
+        color:#bbbbbb;
+        font-size:1.05rem;
+        line-height:1.6;">
+        Genialidade absoluta.  
+        Mas todos tinham uma limitação inevitável: **a velocidade humana**.  
+        Nenhum deles poderia analisar centenas de ativos simultaneamente, recalcular risco em segundos
+        ou tomar decisões livres de emoção.
+    </p>
+
+
+    <h3 style="
+        text-align:center;
+        color:#ff7a1a;
+        font-size:1.75rem;
+        font-weight:700;
+        margin-top:2rem;
+        text-shadow:0 0 12px rgba(255,122,26,0.45);">
+        A Phoenix Strategy é a evolução que eles nunca tiveram tempo de ver.
+    </h3>
+
+
+    <p style="
+        text-align:center;
+        max-width:820px;
+        margin:1.2rem auto;
+        color:#d7d7d7;
+        font-size:1.1rem;
+        line-height:1.7;">
+        A Phoenix pega a essência dos mestres — tendências, fluxo, volatilidade, probabilidades, matemática —
+        e eleva tudo à velocidade computacional.
+        Ela monitora, compara, filtra e entrega oportunidades claras,
+        com a disciplina que só uma máquina consegue manter.
+    </p>
+
+
+    <p style="
+        text-align:center;
+        max-width:820px;
+        margin-top:1.2rem;
+        color:#00ff9a;
+        font-size:1.25rem;
+        font-weight:700;
+        text-shadow:0 0 14px rgba(0,255,154,0.55);">
+        Se a análise técnica fosse inventada hoje, ela nasceria assim.
+    </p>
+
+
+    <p style="
+        text-align:center;
+        max-width:820px;
+        margin-top:0.8rem;
+        color:#ffffff;
+        font-size:1.15rem;
+        font-weight:600;">
+        A Phoenix não substitui os gênios. Ela realiza o que eles nunca puderam fazer.
+    </p>
+
+
+</div>
+
+<style>
+@keyframes fadein {
+    from { opacity:0; transform: translateY(12px); }
+    to   { opacity:1; transform: translateY(0); }
+}
+</style>
+""", unsafe_allow_html=True)
+
+st.markdown("<div class='section-divider'></div>", unsafe_allow_html=True)
+
 # ------------------------------------------------------------
 # O QUE É A PHOENIX STRATEGY
 # ------------------------------------------------------------
